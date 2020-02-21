@@ -1,3 +1,70 @@
+body {
+  font-family: 'Montserrat';
+  padding-top: 6.25rem;
+  background-color: #f8ffeb;
+}
+
+footer {
+  bottom: 0;
+
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: white;
+  z-index: 1;
+}
+
+header>div {
+  display: inline-block;
+}
+
+header .right {
+  width: 49%;
+}
+
+header .left {
+  width: 49%;
+  right: 0;
+  text-align: right;
+  color: #81a881;
+}
+
+header .left h1,
+header .left h5 {
+  margin: .5rem;
+}
+
+header .left h1 {
+  font-size: 2.5rem;
+}
+
+header .left h5 {
+  font-weight: normal;
+}
+
+header #logo {
+  width: 6.45rem;
+  height: 6.35rem;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  margin-left: 2rem;
+}
+
+
+.content {
+  max-width: 75rem;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: justify;
+}
+
+
 /* Style all font awesome icons */
 .fa {
   padding: 20px;
