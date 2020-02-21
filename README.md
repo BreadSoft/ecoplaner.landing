@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## The Conscientious Traveler Manifesto
 
-You can use the [editor on GitHub](https://github.com/drakche/ecoplaner.landing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The world is getting progressively smaller, and time is getting progressively shorter and dearer. People have started traveling more and more. It’s now easier to reach different parts of our planet than it ever was. The world has become a “Global village”.
+Couple of decades ago, most of the people were limited to a place where they lived, due to work, life, housing and all of those creature comforts, not more and more people choose a nomadic lifestyle, and that in turn has shown to have a massive impact on our planet. There are more flights than ever, and new influx of tourism to new places is greater than it ever was. While convenient this has given a rise to non sustainable and non ecological practices, we have seen dying of the reefs, melting of glaciers, overcrowded beaches and mountains. All those people leave traces, trash, footprints. Sometimes, You don’t realize the impact of Your actions. Sometimes, You don’t have a choice. You need to get to that meeting in time. You need to get to that event. 
+But You have a choice of how You’re going to spend Your own free time, and Your own money. It is possible to have a positive impact on the planet. It is possible to have a say in it. Travel accounts for the most CO2 You create. But it’s not only that. You are not a statistic. It's the fact that unbeknownst You sometimes supported unsustainable businesses, places who have profit first in foremost and who do not care for our environment, or even worse, harm it. We are all guilty of that. Me, you, him, her. Everybody. And most of the time, the reason for that is the lack of correct information. 
+I want to create this platform to help people change their way of thinking and observing travel and tourism. A place where You can get inspiration, ideas, where You can see what You can do, if You just change Your perspective. That flight and 2 days more in the city You set out to visit? Or 2 days travel through scenic landscapes and stopping along the way to realize how beautiful this planet we call home it is. And when You arrive, would You rather give Your money to a business which in turn does damage to the environment, or one which is smaller and tries to do it’s best. The choice will always be Yours, I just want to make people aware of the alternatives. It’s great to buy eco friendly clothes from recycled materials. Or an EV, lowering Your carbon footprint. But one conscienceless travel will offset that. 
+I want this to be my legacy. I want to do something to try and make a world cleaner and better place. And I want to give others the choice to do the same thing. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I intend for this platform to be always free for its users. Because the information has to be always free if we want to change anything. This should be a place for people to share their experiences and reach out to others. Help them travel greener. And help them support green minded businesses. Any change starts from us. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drakche/ecoplaner.landing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
