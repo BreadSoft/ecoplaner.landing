@@ -4,11 +4,6 @@ body {
   background-color: #f8ffeb;
 }
 
-footer {
-  bottom: 0;
-
-}
-
 header {
   position: fixed;
   top: 0;
@@ -65,22 +60,15 @@ header #logo {
 }
 
 
-/* Style all font awesome icons */
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 30px;
+footer ul {
+  list-style: none;
+  padding: 0;
+  width: 100%;
   text-align: center;
-  text-decoration: none;
-  border-radius: 50%;
 }
 
-/* Add a hover effect if you want */
-.fa:hover {
-  opacity: 0.7;
-}
-
-.fa-instagram {
-  background: #125688;
-  color: white;
+footer ul li {
+  display: inline-block;
+  width: auto;
+  width: 30%;
 }
